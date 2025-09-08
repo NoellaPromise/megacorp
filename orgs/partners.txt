@@ -1,2 +1,4 @@
-partner list   Boot.dev   TheStartup
+partner list
+SalesInc
+TheStartup
 

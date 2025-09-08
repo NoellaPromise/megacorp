@@ -1,2 +1,5 @@
-partner list   Boot.dev   TheStartup
+
+partner list   Boot.dev   
+
+TheStartup
 
